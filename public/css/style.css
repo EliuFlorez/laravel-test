@@ -1,0 +1,18 @@
+body {background-color:#ccc;}
+.form-style {max-width:630px;padding:15px;margin:0 auto;}
+.form-style .form-style-heading,.form-style .checkbox {margin-bottom:10px;}
+.form-style .checkbox {font-weight:normal;}
+.form-style .form-control {position:relative;font-size:12px;height:auto;padding:5px;-webkit-box-sizing:border-box;-moz-box-sizing:border-box;box-sizing:border-box;}
+.form-style .form-control:focus {z-index:2;}
+
+/*
+.form-style input[type="text"] {margin-bottom:-1px;border-bottom-left-radius:0;border-bottom-right-radius:0;}
+.form-style input[type="password"] {margin-bottom:10px;border-top-left-radius:0;border-top-right-radius:0;}
+.form-style .inputs {margin-bottom:0px;border-bottom-left-radius:0;border-bottom-right-radius:0;border-top-left-radius:0;border-top-right-radius:0;}
+.form-style .inputc {margin-bottom:10px!important;border-top-left-radius:0;border-top-right-radius:0;border-bottom-left-radius:4px!important;border-bottom-right-radius:4px!important;}
+*/
+
+.form-style .btn-up {border-bottom-left-radius:0px!important;border-bottom-right-radius:0px!important;}
+.form-style .btn-down {border-top-left-radius:0px!important;border-top-right-radius:0px!important;}
+.wrap {min-height:100%;height:auto;margin-top:30px;padding: 0 0 30px;}
+.wrap-footer {line-height:40px;margin:30px;color:#999;text-align:center;background-color:#f9f9f9;border-top:1px solid #e5e5e5;}
